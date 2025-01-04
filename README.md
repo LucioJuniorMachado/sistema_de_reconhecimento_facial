@@ -1,6 +1,6 @@
 # sistema_de_reconhecimento_facial
 
-Desenvolvimento de um sistema de reconhecimento facial utilizando Python. 
+No primeiro colab é de um desenvolvimento de um sistema de reconhecimento facial utilizando Python. 
 
 Utilizei o passo a passo do tutorial do professor Dr. Diego Bruno tech na DIO. 
 <https://www.youtube.com/watch?v=EHVrtO9FTEg>
@@ -22,5 +22,7 @@ Normaliza a imagem.
 Filtra detecções fracas garantindo que a "confiança" seja de no mínimo 50% e desenha a caixa que vai delimitar a imagem reconhecendo a face. 
 
 O resultado é mostrado em imagem. 
+
+O segundo colab é utilizado uma rede de classificação para classificar várias faces detectadas na imagem da série friends. 
 	
 
